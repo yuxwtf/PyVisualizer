@@ -2,7 +2,7 @@
 
 Made by Yux !
 
-# Install
+# Install (Administrator CMD)
 
 pip install pipwin
 
