@@ -4,5 +4,6 @@ Made by Yux !
 
 # Install
 
-pip install pipwin\n
+pip install pipwin
+
 pipwin install pyaudio
