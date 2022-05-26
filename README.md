@@ -7,3 +7,7 @@ Made by Yux !
 pip install pipwin
 
 pipwin install pyaudio
+
+# BETA
+
+That my first version of the vizualiser !
