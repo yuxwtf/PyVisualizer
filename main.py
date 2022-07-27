@@ -2,7 +2,6 @@ import pyaudio
 import numpy as np
 import random
 import os
-import ascii2text
 import time
 import threading
 from pystyle import Center
